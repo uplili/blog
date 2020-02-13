@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@tensorflow/tfjs": "^1.5.2"
+    "@tensorflow/tfjs": "^1.5.2",
+    "@tensorflow/tfjs-node": "^1.5.2"
   },
   "devDependencies": {},
   "scripts": {
